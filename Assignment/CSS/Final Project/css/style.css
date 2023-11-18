@@ -2249,8 +2249,6 @@ figure {
   -ms-flex-align: center;
   align-items: center;
   background-color: #c1c3cc;
-  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(55%, hsla(0, 0%, 100%, 0.71)), to(#fff)), url("../img/sub.jpg");
-  background-image: linear-gradient(180deg, hsla(0, 0%, 100%, 0.71) 55%, #fff), url("../img/sub.jpg");
   background-position: 0px 0px, 50% 100%;
   background-size: auto, cover;
 }
@@ -2429,7 +2427,6 @@ figure {
   width: 12px;
   height: 12px;
   margin-right: 7px;
-  background-image: url("../img/checkmark.svg");
   background-position: 0px 0px;
   background-size: contain;
   background-repeat: no-repeat;
